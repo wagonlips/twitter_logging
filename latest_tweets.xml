@@ -1,6 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <statuses type="array">
   <status>
+    <created_at>Sun Oct 07 21:37:19 +0000 2012</created_at>
+    <id>255059253189025792</id>
+    <text>floated adrift on a sea of sycophants and fragments of courtiers whose praises and odes celebrated derogatory elegies and pathetic exploits.</text>
+    <source>&lt;a href=&quot;http://www.floodgap.com/software/ttytter/&quot; rel=&quot;nofollow&quot;&gt;TTYtter (wagonlips)&lt;/a&gt;</source>
+    <truncated>false</truncated>
+    <in_reply_to_status_id></in_reply_to_status_id>
+    <in_reply_to_user_id></in_reply_to_user_id>
+    <in_reply_to_screen_name></in_reply_to_screen_name>
+    <user>
+      <id>7712962</id>
+      <name>Sean Camden</name>
+      <screen_name>wagonlips</screen_name>
+      <location>Where fancy is bred.</location>
+      <profile_image_url>http://a0.twimg.com/profile_images/25582762/wagonlips-profile_normal.jpg</profile_image_url>
+      <profile_image_url_https>https://si0.twimg.com/profile_images/25582762/wagonlips-profile_normal.jpg</profile_image_url_https>
+      <url>http://www.wagonlips.com</url>
+      <description>Not your father's numbers station.</description>
+      <protected>false</protected>
+      <followers_count>19</followers_count>
+      <profile_background_color>784C2F</profile_background_color>
+      <profile_text_color>000000</profile_text_color>
+      <profile_link_color>0000FF</profile_link_color>
+      <profile_sidebar_fill_color>E0FF91</profile_sidebar_fill_color>
+      <profile_sidebar_border_color>87BC44</profile_sidebar_border_color>
+      <friends_count>11</friends_count>
+      <created_at>Wed Jul 25 14:33:29 +0000 2007</created_at>
+      <favourites_count>0</favourites_count>
+      <utc_offset>-28800</utc_offset>
+      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
+      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
+      <profile_background_tile>false</profile_background_tile>
+      <profile_use_background_image>true</profile_use_background_image>
+      <geo_enabled>false</geo_enabled>
+      <verified>false</verified>
+      <statuses_count>1846</statuses_count>
+      <lang>en</lang>
+      <contributors_enabled>false</contributors_enabled>
+      <is_translator>false</is_translator>
+      <listed_count>1</listed_count>
+      <default_profile>false</default_profile>
+      <default_profile_image>false</default_profile_image>
+      <following></following>
+      <follow_request_sent></follow_request_sent>
+      <notifications></notifications>
+    </user>
+    <geo/>
+    <coordinates/>
+    <place/>
+    <contributors/>
+    <retweet_count>0</retweet_count>
+    <favorited>false</favorited>
+    <retweeted>false</retweeted>
+  </status>
+  <status>
     <created_at>Sat Oct 06 14:45:23 +0000 2012</created_at>
     <id>254593199224537088</id>
     <text>pursued the mortal cranes with pure voices saying, &quot;Woe to strange robbers and happy performers; the terror is in your friendly choristers.&quot;</text>
@@ -36,7 +91,7 @@
       <profile_use_background_image>true</profile_use_background_image>
       <geo_enabled>false</geo_enabled>
       <verified>false</verified>
-      <statuses_count>1845</statuses_count>
+      <statuses_count>1846</statuses_count>
       <lang>en</lang>
       <contributors_enabled>false</contributors_enabled>
       <is_translator>false</is_translator>
@@ -91,7 +146,7 @@
       <profile_use_background_image>true</profile_use_background_image>
       <geo_enabled>false</geo_enabled>
       <verified>false</verified>
-      <statuses_count>1845</statuses_count>
+      <statuses_count>1846</statuses_count>
       <lang>en</lang>
       <contributors_enabled>false</contributors_enabled>
       <is_translator>false</is_translator>
@@ -146,7 +201,7 @@
       <profile_use_background_image>true</profile_use_background_image>
       <geo_enabled>false</geo_enabled>
       <verified>false</verified>
-      <statuses_count>1845</statuses_count>
+      <statuses_count>1846</statuses_count>
       <lang>en</lang>
       <contributors_enabled>false</contributors_enabled>
       <is_translator>false</is_translator>
@@ -201,62 +256,7 @@
       <profile_use_background_image>true</profile_use_background_image>
       <geo_enabled>false</geo_enabled>
       <verified>false</verified>
-      <statuses_count>1845</statuses_count>
-      <lang>en</lang>
-      <contributors_enabled>false</contributors_enabled>
-      <is_translator>false</is_translator>
-      <listed_count>1</listed_count>
-      <default_profile>false</default_profile>
-      <default_profile_image>false</default_profile_image>
-      <following></following>
-      <follow_request_sent></follow_request_sent>
-      <notifications></notifications>
-    </user>
-    <geo/>
-    <coordinates/>
-    <place/>
-    <contributors/>
-    <retweet_count>0</retweet_count>
-    <favorited>false</favorited>
-    <retweeted>false</retweeted>
-  </status>
-  <status>
-    <created_at>Wed Oct 03 03:56:09 +0000 2012</created_at>
-    <id>253342650390962176</id>
-    <text>occupied structures built from the carcasses of animals in the recesses of waterfalls above horrible, hollow dainties made from destruction.</text>
-    <source>&lt;a href=&quot;http://www.floodgap.com/software/ttytter/&quot; rel=&quot;nofollow&quot;&gt;TTYtter (wagonlips)&lt;/a&gt;</source>
-    <truncated>false</truncated>
-    <in_reply_to_status_id></in_reply_to_status_id>
-    <in_reply_to_user_id></in_reply_to_user_id>
-    <in_reply_to_screen_name></in_reply_to_screen_name>
-    <user>
-      <id>7712962</id>
-      <name>Sean Camden</name>
-      <screen_name>wagonlips</screen_name>
-      <location>Where fancy is bred.</location>
-      <profile_image_url>http://a0.twimg.com/profile_images/25582762/wagonlips-profile_normal.jpg</profile_image_url>
-      <profile_image_url_https>https://si0.twimg.com/profile_images/25582762/wagonlips-profile_normal.jpg</profile_image_url_https>
-      <url>http://www.wagonlips.com</url>
-      <description>Not your father's numbers station.</description>
-      <protected>false</protected>
-      <followers_count>19</followers_count>
-      <profile_background_color>784C2F</profile_background_color>
-      <profile_text_color>000000</profile_text_color>
-      <profile_link_color>0000FF</profile_link_color>
-      <profile_sidebar_fill_color>E0FF91</profile_sidebar_fill_color>
-      <profile_sidebar_border_color>87BC44</profile_sidebar_border_color>
-      <friends_count>11</friends_count>
-      <created_at>Wed Jul 25 14:33:29 +0000 2007</created_at>
-      <favourites_count>0</favourites_count>
-      <utc_offset>-28800</utc_offset>
-      <time_zone>Pacific Time (US &amp; Canada)</time_zone>
-      <profile_background_image_url>http://a0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url>
-      <profile_background_image_url_https>https://si0.twimg.com/images/themes/theme1/bg.png</profile_background_image_url_https>
-      <profile_background_tile>false</profile_background_tile>
-      <profile_use_background_image>true</profile_use_background_image>
-      <geo_enabled>false</geo_enabled>
-      <verified>false</verified>
-      <statuses_count>1845</statuses_count>
+      <statuses_count>1846</statuses_count>
       <lang>en</lang>
       <contributors_enabled>false</contributors_enabled>
       <is_translator>false</is_translator>
