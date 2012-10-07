@@ -1,7 +1,7 @@
 #!/usr/bin/python2.6
 from datetime import datetime
 from lxml import etree
-myXmlFile = etree.parse("latest_tweets.xml")
+myXmlFile = etree.parse("/twitter_logging/latest_tweets.xml")
 myText = myXmlFile.xpath('//text')
 myDate = myXmlFile.xpath('//status/created_at')
 textList = []
