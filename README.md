@@ -2,3 +2,4 @@ twitter_logging
 ===============
 
 A python script that extracts/modifies the date/text of tweets from the public XML of a user on twitter.com
+To be used in conjunction with cURL and bash to check for new tweets and add to archive.
