@@ -8,6 +8,6 @@ if [ $? -eq 1 ]
   cat twitter-full.html >> /tmp/tweets.html
   cp /tmp/tweets.html twitter-full.html
   cat index-head.html > index.html
-  cat twitter-full.html >> index.html
+  cat twitter-full.html | sort -r | uniq >> index.html
   cat index-tail.html >> index.html
 fi
