@@ -1,0 +1,4 @@
+open wagonlips
+cd /public_html/
+put index.html
+quit

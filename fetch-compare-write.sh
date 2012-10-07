@@ -10,4 +10,5 @@ if [ $? -eq 1 ]
   cat index-head.html > index.html
   cat twitter-full.html | sort -r | uniq >> index.html
   cat index-tail.html >> index.html
+  lftp -f wagonlips-index-upload.lftp
 fi
