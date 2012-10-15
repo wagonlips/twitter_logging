@@ -3,4 +3,4 @@ import twitter
 api = twitter.Api() 
 statuses = api.GetUserTimeline('wagonlips')
 for s in statuses:
-  print s.text 
+  print s.created_at + " " + s.text
