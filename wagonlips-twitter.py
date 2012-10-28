@@ -23,7 +23,6 @@ statuses = api.GetUserTimeline(USERNAME)
 for s in statuses[:1]:
     # get UTC timestamp from seconds since epoch
     utc_dt = datetime.utcfromtimestamp(s.created_at_in_seconds).replace(tzinfo=pytz.utc)
-    print('utc: {}'.format(utc_dt))
     # convert to local time in the user's timezone
     localtime_dt = utc_dt.astimezone(localtime_tz)
-    print('localtime [{}]: {}'.format(localtime_dt.tzname(), localtime_dt))
+    print localtime_dt
