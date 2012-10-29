@@ -9,20 +9,18 @@ import pytz
 import twitter
 
 from datetime import  datetime
-from dateutil.tz import tzoffset
 
-USERNAME = 'ttytter'
+USERNAME = 'wagonlips'
 
 api = twitter.Api()
 
-# get a 'tzinfo' instance with the UTC offset for the user's local time
 user = api.GetUser(USERNAME)
-localtime_tz = tzoffset(user.time_zone, user.utc_offset)
+pst_tz = pytz.timezone('America/Los_Angeles')
 
 statuses = api.GetUserTimeline(USERNAME)
-for s in statuses[:1]:
+for s in statuses:
     # get UTC timestamp from seconds since epoch
     utc_dt = datetime.utcfromtimestamp(s.created_at_in_seconds).replace(tzinfo=pytz.utc)
-    # convert to local time in the user's timezone
-    localtime_dt = utc_dt.astimezone(localtime_tz)
-    print localtime_dt
+    # convert to given timezone
+    pst_dt = pst_tz.normalize(utc_dt.astimezone(pst_tz))
+    print '[' + (pst_dt.strftime('%Y-%m-%d %H:%M:%S')) + '] &lt;wagonlips&gt; ' + s.text
