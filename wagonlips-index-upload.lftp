@@ -1,4 +1,4 @@
 open wagonlips
-cd /public_html/
-put /twitter_logging/index.html
+cd /wagonlips.com/
+put ~/twitter_logging/index.html
 quit
