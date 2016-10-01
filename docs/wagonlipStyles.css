@@ -1,0 +1,38 @@
+/* the style sheet for wagonlips.com
+    sean camden 09.2012 */
+    
+body {
+  background-color: #cacaca;
+  margin:0px;
+  padding:0px;
+  font:11px verdana, arial, helvetica, sans-serif;
+  }
+
+pre {
+  margin:20px auto;
+  width:1150px;
+  color:#515151;
+  }
+
+#footer {
+  width:1150px;
+  bottom:10px;
+  margin:0 auto;
+  text-align:center;
+  margin-bottom:10px;
+  }
+
+
+a {
+  color:#000000;
+  font-size:11px;
+  font-family:verdana, arial, helvetica, sans-serif;
+  font-weight:600;
+  text-decoration:none;
+  }
+
+a:link {color:#000000;link-treatment:none;}
+
+a:visited {color:#333333;}
+
+a:hover {background-color:#eeeeee;}
