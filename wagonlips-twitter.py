@@ -1,4 +1,7 @@
 #!/usr/bin/python
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 import pytz
 import twitter
 import mysecret
