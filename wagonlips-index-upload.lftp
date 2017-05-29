@@ -1,4 +1,5 @@
 open wagonlips
 cd /wagonlips.com/
 put ~/twitter_logging/index.html
+put ~/twitter_logging/docs/random.js
 quit
